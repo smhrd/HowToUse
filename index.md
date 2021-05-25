@@ -3,7 +3,7 @@
 > 팀 프로젝트의 원활한 진행을 위한 Git과 Github가 무엇인지 알아보고  
 > Eclipse를 이용한 간단한 연동 방법도 영상으로 확인해 봅시다!!  
 
-|영상|내용|
+|인쌤TV 영상|내용|
 |:---:|:----:|
 |[![git01](assets/images/git_1.webp)](https://www.youtube.com/watch?v=3eVZyCWhVKU)|#01. 능력있는 개발자라면 알아야 할 git, Github(개요)|  
 |[![git02](assets/images/git_2.webp)](https://www.youtube.com/watch?v=8HFu9ZwslO8)|#02. 코드! 버전관리의 끝판왕! Git사용법|  
