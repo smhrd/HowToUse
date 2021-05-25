@@ -1,6 +1,8 @@
 # Git과 Github 이해하기
+
 팀프로젝트의 원활한 진행을 위한 git과 github가 무엇인지 이해해봅시다!!
 또 eclipse를 이용한 간단한 연동 방법도 실습해봅시다!!
+
 ---
 
 ![Octocat](assets/images/git_1.webp)    
