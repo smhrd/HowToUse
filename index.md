@@ -16,7 +16,12 @@
 
 # Github 가입하기
 
-> 실제로 프로젝트를 진행하기 위해 아래 순서를 따라서 Github에 가입해봅시다.
+> 실제로 프로젝트를 진행하기 위해 아래 순서를 따라서 Github에 가입해봅시다.  
+
+![joingit01](assets/images/git_join_img/01.png)  
+> Github 사이트로 접속 후 오른쪽 상단의 Sign up 클릭
+
+![joingit02](assets/images/git_join_img/02.png)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
