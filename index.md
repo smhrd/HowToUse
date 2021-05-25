@@ -5,8 +5,14 @@
 
 ---
 
-![Octocat](assets/images/git_1.webp)    
-[#01. 능력있는 개발자라면 알아야 할 git, Github(개요)](https://www.youtube.com/watch?v=3eVZyCWhVKU)
+![git01](assets/images/git_1.webp)    
+[#01. 능력있는 개발자라면 알아야 할 git, Github(개요)](https://www.youtube.com/watch?v=3eVZyCWhVKU)  
+
+![git02](assets/images/git_2.webp)    
+[#02. 코드! 버전관리의 끝판왕! Git사용법](https://www.youtube.com/watch?v=8HFu9ZwslO8)  
+
+![git03](assets/images/git_3.webp)    
+[#03. 모르는 개발자가 없는 유용of 최강유용한 GitHub 사용법!](https://www.youtube.com/watch?v=8gyquB3VNNs)  
 
 ---
 layout: default
