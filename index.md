@@ -1,7 +1,7 @@
 # Git과 Github 이해하기
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-[https://www.youtube.com/watch?v=3eVZyCWhVKU] 1. 능력있는 개발자라면 알아야 할 git, Github(개요)
+[1. 능력있는 개발자라면 알아야 할 git, Github(개요)](https://www.youtube.com/watch?v=3eVZyCWhVKU)
 
 ---
 layout: default
