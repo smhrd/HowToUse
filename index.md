@@ -18,6 +18,7 @@
 
 > 실제로 프로젝트를 진행하기 위해 아래 순서를 따라서 Github에 가입해봅시다.  
 > Github 사이트로 접속 후 오른쪽 상단의 Sign up 클릭  
+
 ![joingit01](assets/images/git_join_img/01.png)  
 
 > 필요한 정보 입력 후 계정 생성 버튼 클릭  
