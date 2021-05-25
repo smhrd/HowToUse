@@ -17,11 +17,31 @@
 # Github 가입하기
 
 > 실제로 프로젝트를 진행하기 위해 아래 순서를 따라서 Github에 가입해봅시다.  
-
-![joingit01](assets/images/git_join_img/01.png)  
 > Github 사이트로 접속 후 오른쪽 상단의 Sign up 클릭
+![joingit01](assets/images/git_join_img/01.png)  
 
+> 필요한 정보 입력 후 계정 생성 버튼 클릭
 ![joingit02](assets/images/git_join_img/02.png)
+
+> 저장소 개인 셋팅 Skip~~ 나중에 필요하면 설정해도 됩니다!!
+![joingit03](assets/images/git_join_img/03.png)
+
+> Github를 이용하려면 이메일 인증이 필요합니다!! 인증하러 가볼까요!!
+![joingit06](assets/images/git_join_img/06.png)
+
+> 가입시 작성했던 이메일로 가보면 인증 메일이 한 개 도착해있습니다.
+> 메일안에 인증 버튼을 클릭하시면 됩니다!!
+![joingit07](assets/images/git_join_img/07.png)
+
+> Github 사이트로 이동하면서 인증 성공 메세지가 뜹니다!! 성공!!
+![joingit08](assets/images/git_join_img/08.png)
+
+> 여러분이 누구인지 알기 위해서 프로필 이름을 바꾸러 가봅시다!!
+> 셋팅 메뉴로 들어가주세요~!!
+![joingit09](assets/images/git_join_img/09.png)
+
+> 본인 한글이름으로 작성해주시고, 필요시 사진도 본인을 어필 할 수 있는 사진으로 바꿔주세요!!
+![joingit10](assets/images/git_join_img/10.png)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
