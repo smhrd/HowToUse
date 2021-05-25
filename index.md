@@ -2,7 +2,7 @@
 
 ---
 
-팀프로젝트의 원활한 진행을 위한 git과 github가 무엇인지 이해해봅시다!!  
+팀 프로젝트의 원활한 진행을 위한 Git과 Github가 무엇인지 알아봅시다!!  
 또 eclipse를 이용한 간단한 연동 방법도 실습해봅시다!!  
 
 ![git01](assets/images/git_1.webp)    
@@ -15,8 +15,12 @@
 [#03. 모르는 개발자가 없는 유용of 최강유용한 GitHub 사용법!](https://www.youtube.com/watch?v=8gyquB3VNNs)  
 
 ---
-layout: default
+
+# Github 가입하기
+
 ---
+
+실제로 프로젝트를 진행하기 위해 아래 순서를 따라서 Github에 가입해봅시다.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
