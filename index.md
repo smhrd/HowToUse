@@ -18,9 +18,10 @@
 > Github 사이트로 접속 후 오른쪽 상단의 Sign up 클릭  
 
 ![joingit01](assets/images/git_join_img/01.png)  
+<br>  
 
 > 필요한 정보 입력 후 계정 생성 버튼 클릭  
-<br>
+
 ![joingit02](assets/images/git_join_img/02.png)
 
 > 저장소 개인 셋팅 Skip~~ 나중에 필요하면 설정해도 됩니다!!  
