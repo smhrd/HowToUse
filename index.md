@@ -4,7 +4,7 @@
 > 또 eclipse를 이용한 간단한 연동 방법도 실습해봅시다!!  
 
 [![git01](assets/images/git_1.webp)](https://www.youtube.com/watch?v=3eVZyCWhVKU)  
-[#01. 능력있는 개발자라면 알아야 할 git, Github(개요)](https://www.youtube.com/watch?v=3eVZyCWhVKU)  
+#01. 능력있는 개발자라면 알아야 할 git, Github(개요)  
 
 ![git02](assets/images/git_2.webp)    
 [#02. 코드! 버전관리의 끝판왕! Git사용법](https://www.youtube.com/watch?v=8HFu9ZwslO8)  
