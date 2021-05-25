@@ -1,6 +1,6 @@
 # Git과 Github 이해하기
 
-![Octocat](assets/images/git_1.webp)
+![Octocat](assets/images/git_1.webp)  
 [1. 능력있는 개발자라면 알아야 할 git, Github(개요)](https://www.youtube.com/watch?v=3eVZyCWhVKU)
 
 ---
