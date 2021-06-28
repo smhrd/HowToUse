@@ -45,5 +45,5 @@
   - git config --global --unset user.email
 
 - 새로운 Git 사용자 정보 추가
-  - git config --global user.name "새로운 사용자 이름"
-  - git config --global user.email "새로운 이메일"
+  - git config --global user.name  "새로운 사용자 이름"
+  - git config --global user.email  "새로운 이메일"
