@@ -1,4 +1,4 @@
-## HowToUse 처음으로 [이동](./index.md)
+## How to use Github 첫 페이지로 [이동](./index.md)
 
 ---
 ## 목차
