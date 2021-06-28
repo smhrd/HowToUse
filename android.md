@@ -134,7 +134,7 @@
 
 > 이제 팀원들과 작업한 코드를 Push/Pull 기능으로 공유하시면 됩니다.
 
-![25](assets/images/git_for_androidstudio_student/슬라이드25.PNG)
+![25](assets/images/git_for_androidstudio_student/슬라이드25.png)
 <br><br>
 
 ---
