@@ -113,8 +113,30 @@
 ---
 ## Clone Project
 
+> 나머지 팀원들은 Base Project를 Clone해서 개발을 진행하면됩니다.  
+> 상단 메뉴에서 File > New > Project from Version Control을 선택합니다.
+
+![22](assets/images/git_for_androidstudio_student/슬라이드22.PNG)
+<br><br>
+
+> Clone할 Github 저장소에서 URL을 복사합니다.
+
+![23](assets/images/git_for_androidstudio_student/슬라이드23.PNG)
+<br><br>
+
+> 복사한 URL을 입력합니다. Directory에 자동으로 clone한 프로젝트가 저장 될 폴더가 입력됩니다.  
+> 원하시면 다른 폴더를 선택해도 됩니다.
+
+![23](assets/images/git_for_androidstudio_student/슬라이드23.PNG)
+<br><br>
+
 ---
 ## [기타]Git 사용시 주의사항
+
+1. Git/Github가 익숙하지 않을 때는 팀원끼리 충돌을 피하기 위해 다른 파일을 작업하길 권장합니다.
+2. 같은 파일에 기능을 개발해야하는 경우 소스코드를 건드리는 작업 날짜나 시간을 다르게 합니다.
+3. Git/Github가 익숙해지면 충돌을 조금씩 경험해봅시다.
+4. 인쌤tv [Github 사용법](https://www.youtube.com/watch?v=8gyquB3VNNs) 영상에 충돌 상황 설명이 있으니 참고하세요.
 
 ---
 ## [기타]Git user 정보 수정하기
