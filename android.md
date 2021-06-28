@@ -132,6 +132,8 @@
 ![24](assets/images/git_for_androidstudio_student/슬라이드24.PNG)
 <br><br>
 
+> 이제 팀원들과 작업한 코드를 Push/Pull 기능으로 공유하시면 됩니다.
+
 ---
 ## Git 사용시 주의사항
 
