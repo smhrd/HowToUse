@@ -127,7 +127,7 @@
 > 복사한 URL을 입력합니다. Directory에 자동으로 clone한 프로젝트가 저장 될 폴더가 입력됩니다.  
 > 원하시면 다른 폴더를 선택해도 됩니다.
 
-![23](assets/images/git_for_androidstudio_student/슬라이드23.PNG)
+![24](assets/images/git_for_androidstudio_student/슬라이드24.PNG)
 <br><br>
 
 ---
@@ -141,3 +141,19 @@
 ---
 ## [기타]Git user 정보 수정하기
 
+> Git 정보를 이전에 입력 했거나 잘못입력해서 변경하고 싶은 경우 Git bash에서 아래 명령어를 입력합니다.  
+> Git 설치 폴더로 이동하면 Git bash 프로그램을 실행 할 수 있습니다.
+
+- Git 사용자 정보 확인
+  - git config --global user.name
+  - git config --global user.email
+
+- 기존의 Git 사용자 정보 삭제
+  - git config --global --unset user.name
+  - git config --global --unset user.email
+
+- 새로운 Git 사용자 정보 추가 (명령어 쓰지 않고 안드로이드 스튜디오에서 commit시 입력창으로 설정 가능)
+  - git config --global user.name "새로운 사용자 이름"
+  - git config --global user.email "새로운 이메일"
+  
+---
