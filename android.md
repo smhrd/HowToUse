@@ -70,6 +70,45 @@
 
 ![12](assets/images/git_for_androidstudio_student/슬라이드12.PNG)
 <br><br>
+![13](assets/images/git_for_androidstudio_student/슬라이드13.PNG)
+<br><br>
+
+> 이력을 남긴 프로젝트를 Github에 업로드(push)합니다.  
+> app에서 오른쪽 클릭 후 Git > Repository > Push 메뉴를 선택합니다.  
+
+![14](assets/images/git_for_androidstudio_student/슬라이드14.PNG)
+<br><br>
+
+> 사전에 만든 Github 저장소 URL을 입력 후, Push 버튼을 클릭합니다.
+
+![15](assets/images/git_for_androidstudio_student/슬라이드15.PNG)
+<br><br>
+![16](assets/images/git_for_androidstudio_student/슬라이드16.PNG)
+<br><br>
+
+> Github 사용자 인증을 위한 메뉴가 뜨면 Use Token 클릭후 Generate 버튼을 누릅니다.
+
+![17](assets/images/git_for_androidstudio_student/슬라이드17.PNG)
+<br><br>
+
+> 자동으로 연결되는 Github Token 생성 페이지에서 쓰기 권한을 추가해줍니다.  
+> 쓰기 권한 추가 후 하단에 생성 버튼을 클릭합니다.
+
+![18](assets/images/git_for_androidstudio_student/슬라이드18.PNG)
+<br><br>
+![19](assets/images/git_for_androidstudio_student/슬라이드19.PNG)
+<br><br>
+
+> 생성된 Token 문자열을 복사 후 안드로이드 스튜디오에서 사용자 인증 입력창에 넣어줍니다.
+> 생성된 Token은 페이지를 벗어나면 더 이상 보여주지 않으니 복사해서 꼭 따로 저장해놓으세요.
+
+![20](assets/images/git_for_androidstudio_student/슬라이드20.PNG)
+<br><br>
+
+> Github 저장소를 다시 들어가면 최초 프로젝트가 업로드 완료된게 보입니다.
+
+![21](assets/images/git_for_androidstudio_student/슬라이드21.PNG)
+<br><br>
 
 ---
 ## Clone Project
