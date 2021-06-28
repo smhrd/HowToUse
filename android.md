@@ -1,3 +1,6 @@
+## HowToUse 처음으로 [이동](./index.md)
+
+---
 ## 목차
 1. [Git 설치하기](#git-설치하기)
 1. [Base Project 만들기](#base-project-만들기)
