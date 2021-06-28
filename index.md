@@ -11,7 +11,7 @@
 
 ---
 # 다른 개발도구로 Git/Github 연동하기
-[Android Studio 연동하기](./android.md)
+[Android Studio 연동하기](./android.md)  
 [Visual Studio Code 연동하기](./vscode.md)
 
 ---
