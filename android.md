@@ -137,6 +137,9 @@
 2. 같은 파일에 기능을 개발해야하는 경우 소스코드를 건드리는 작업 날짜나 시간을 다르게 합니다.
 3. Git/Github가 익숙해지면 충돌을 조금씩 경험해봅시다.
 4. 인쌤tv [Github 사용법](https://www.youtube.com/watch?v=8gyquB3VNNs) 영상에 충돌 상황 설명이 있으니 참고하세요.
+5. 항상 Commit(1번) > Pull(2번) > Push(3번) 우선 순위를 기억하세요.  
+6. Pull을 할경우 현재 내 작업물 Commit을 먼저해야합니다.
+7. Push를 할경우 Github에서 Pull을 먼저 진행해야 합니다.
 
 ---
 ## [기타]Git user 정보 수정하기
