@@ -63,6 +63,14 @@
 ![11](assets/images/git_for_androidstudio_student/슬라이드11.PNG)
 <br><br>
 
+> Commit 버튼을 클릭하면 Git 정보 입력창이 뜹니다. (기존에 Git을 한번도 쓰지 않은 경우)  
+> Github 로그인시 자신의 정보에서 볼 수 있는 사용자 이름과  
+> Github 로그인시 사용하는 이메일을 입력합니다.  
+> 기존 Git 정보를 수정하고 싶은 경우 [[기타]Git user 정보 수정하기](#Git-user-정보-수정하기)를 참고하세요.
+
+![12](assets/images/git_for_androidstudio_student/슬라이드12.PNG)
+<br><br>
+
 ---
 ## Clone Project
 
