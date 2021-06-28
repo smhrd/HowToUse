@@ -9,6 +9,10 @@
 |2|[![git02](assets/images/git_2.webp)](https://www.youtube.com/watch?v=8HFu9ZwslO8)|코드! 버전관리의 끝판왕! Git사용법|  
 |3|[![git03](assets/images/git_3.webp)](https://www.youtube.com/watch?v=8gyquB3VNNs)|모르는 개발자가 없는 유용of 최강유용한 GitHub 사용법!|
 
+---
+# 다른 개발도구로 Git/Github 연동하기
+[Android Studio 연동하기](./android.md)
+[Visual Studio Code 연동하기](./vscode.md)
 
 ---
 
