@@ -18,7 +18,11 @@
 <br><br>
 
 ## Base Project 만들기
- 
+> 인재개발원 블로그를 참고하세요!!  
+> [[Git] VS Code와 GitHub연동하는 방법(VS Code로 작업한 파일 GitHub에 업로드하는 방법)](https://m.blog.naver.com/jang0_0yw/222420638645)
+
+![03](assets/images/yj.png)  
+
 ## Clone Project
 
 ## Git 사용시 주의사항
