@@ -1,6 +1,7 @@
-## 변경내역 commit후 push할때 로그인이 안되는 경우(해결방법)
+## 변경내역 commit후 push할때 로그인이 안되는 경우
 
-> Github에서 로그인할때 사용하는 비밀번호를 push할때 사용하지 않고 대신 Personal access token을 쓰도록 권장하고 있음  
+> Github에서 로그인할때 사용하는 비밀번호를 push할때 사용하지 않고  
+> 대신 Personal access token을 쓰도록 권장하고 있음  
 > 임시 비밀번호처럼 token 문자열을 발급받아 이클립스에서 push할때 사용할 수 있음  
 
 1. 오른쪽 상단에 프로필을 누르고 Settings 메뉴로 진입  
